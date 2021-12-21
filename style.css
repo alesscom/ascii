@@ -1,0 +1,19 @@
+body{
+
+    background-position: center;
+    background-size: cover;
+}
+#canvas
+{
+    margin-top: 10px;
+	border-width:40px;
+	background-color: white; 
+	border-style:ridge;
+}
+
+h1,h4
+{
+	
+	color:red!important;
+	
+}
